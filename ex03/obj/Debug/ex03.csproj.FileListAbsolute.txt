@@ -1,0 +1,7 @@
+C:\Users\New\source\repos\ConsoleApp4\ex03\bin\Debug\ex03.exe.config
+C:\Users\New\source\repos\ConsoleApp4\ex03\bin\Debug\ex03.exe
+C:\Users\New\source\repos\ConsoleApp4\ex03\bin\Debug\ex03.pdb
+C:\Users\New\source\repos\ConsoleApp4\ex03\obj\Debug\ex03.csproj.AssemblyReference.cache
+C:\Users\New\source\repos\ConsoleApp4\ex03\obj\Debug\ex03.csproj.CoreCompileInputs.cache
+C:\Users\New\source\repos\ConsoleApp4\ex03\obj\Debug\ex03.exe
+C:\Users\New\source\repos\ConsoleApp4\ex03\obj\Debug\ex03.pdb

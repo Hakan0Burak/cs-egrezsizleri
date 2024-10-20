@@ -1,0 +1,7 @@
+C:\Users\New\source\repos\ConsoleApp4\ex09\bin\Debug\ex09.exe.config
+C:\Users\New\source\repos\ConsoleApp4\ex09\bin\Debug\ex09.exe
+C:\Users\New\source\repos\ConsoleApp4\ex09\bin\Debug\ex09.pdb
+C:\Users\New\source\repos\ConsoleApp4\ex09\obj\Debug\ex09.csproj.AssemblyReference.cache
+C:\Users\New\source\repos\ConsoleApp4\ex09\obj\Debug\ex09.csproj.CoreCompileInputs.cache
+C:\Users\New\source\repos\ConsoleApp4\ex09\obj\Debug\ex09.exe
+C:\Users\New\source\repos\ConsoleApp4\ex09\obj\Debug\ex09.pdb

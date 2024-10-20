@@ -1,0 +1,7 @@
+C:\Users\New\source\repos\ConsoleApp4\ex15\bin\Debug\ex15.exe.config
+C:\Users\New\source\repos\ConsoleApp4\ex15\bin\Debug\ex15.exe
+C:\Users\New\source\repos\ConsoleApp4\ex15\bin\Debug\ex15.pdb
+C:\Users\New\source\repos\ConsoleApp4\ex15\obj\Debug\ex15.csproj.AssemblyReference.cache
+C:\Users\New\source\repos\ConsoleApp4\ex15\obj\Debug\ex15.csproj.CoreCompileInputs.cache
+C:\Users\New\source\repos\ConsoleApp4\ex15\obj\Debug\ex15.exe
+C:\Users\New\source\repos\ConsoleApp4\ex15\obj\Debug\ex15.pdb

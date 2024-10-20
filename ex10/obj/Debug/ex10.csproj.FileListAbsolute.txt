@@ -1,0 +1,7 @@
+C:\Users\New\source\repos\ConsoleApp4\ex10\bin\Debug\ex10.exe.config
+C:\Users\New\source\repos\ConsoleApp4\ex10\bin\Debug\ex10.exe
+C:\Users\New\source\repos\ConsoleApp4\ex10\bin\Debug\ex10.pdb
+C:\Users\New\source\repos\ConsoleApp4\ex10\obj\Debug\ex10.csproj.AssemblyReference.cache
+C:\Users\New\source\repos\ConsoleApp4\ex10\obj\Debug\ex10.csproj.CoreCompileInputs.cache
+C:\Users\New\source\repos\ConsoleApp4\ex10\obj\Debug\ex10.exe
+C:\Users\New\source\repos\ConsoleApp4\ex10\obj\Debug\ex10.pdb
